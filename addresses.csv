@@ -1,0 +1,11 @@
+id, mailingAddress
+1,"123 Main Street, Dunley, PA 15432"
+2, "123 Main Street, Dunley, PA, 15432"
+3, "16 Willow Drive, RR 1 Box 68A, Dunley, PA 15432"
+4, "234 Elm St, Apt 56B, Chicago, IL 60601"
+5, "16 Willow Drive, RR 1 Box 68A, Dunley, PA, 15432"
+6, "234 Elm St, Apt 56B, Chicago, IL, 60601"
+7, "Willow Farms, 16 Willow Drive, RR 1 Box 68A, Dunley, PA 15432"
+8, "Willow Farms, 16 Willow Drive, PO Box 1234, Dunley, PA 15432"
+9, "Willow Farms, 16 Willow Drive, RR 1 Box 68A, Dunley, PA, 15432"
+10, "Willow Farms, 16 Willow Drive, PO Box 1234, Dunley, PA, 15432"
